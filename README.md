@@ -47,8 +47,6 @@ This project builds a complete ML pipeline in a Jupyter notebook (`breast_cancer
 breast_cancer_classification/
 │
 ├── breast_cancer_classification.ipynb   # Main notebook with full workflow
-├── data/                                # (Optional) if raw/processed data files included
-├── requirements.txt                     # (Optional) list of Python dependencies
 └── README.md                            # This documentation file
 ```
 
